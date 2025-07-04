@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h3 {
+    color: goldenrod;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+body {
+    background-color: #000;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
